@@ -1,0 +1,199 @@
+html {
+    background-image: url(assets/images/sakura.png);
+  }
+
+li {
+    display: inline;
+    font-family: 'Monsterrat', sans-serif;
+    text-align: right;
+    padding: 20px 30px;
+    }
+    
+    li a {
+    
+    color: gray;
+    text-align: right;
+    
+}
+
+
+h1 {
+    font-family: 'Monsterrat', sans-serif;
+    color: #800020;
+    text-align: end;
+    font-size: 24px;
+    padding-right: 70px;
+    padding-bottom: -20px;
+    position: relative;
+    right: 850px;
+
+}
+
+h2 {
+    font-family: 'Monsterrat', sans-serif;
+    color: #800020;
+    text-align: end;
+    padding-right: 70px;
+    
+}
+
+p.p1 {
+    font-family: 'Monsterrat', sans-serif;
+    color: rgb(189, 55, 66);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 350px;
+    padding-right: 200px;
+    padding-top: 10px;
+    line-height: 18px;
+    width: 800px;
+    position: relative;
+
+}    
+
+.clearfix {
+    overflow: auto;
+}
+p.p2 {
+    font-family: 'Monsterrat', sans-serif;
+    text-align: end;
+    font-size: 20px;
+    color:  #800020;
+    padding-right: 70px;
+
+}
+
+p.p3 {
+    font-family: 'Monsterrat', sans-serif;
+    text-align: left;
+    font-size: 24px;
+    color: #800020;
+    border: solid;
+    border-width: 5px;
+    border-color: #800020;
+
+}
+
+p.p4 {
+    font-family: 'Monsterrat', sans-serif;
+    text-align: left;
+    font-size: 24px;
+    color: #800020;
+    border: solid;
+    border-width: 5px;
+    border-color: #800020;
+}
+
+p.p5 {
+    font-family: 'Monsterrat', sans-serif;
+    text-align: left;
+    font-size: 24px;
+    color: #800020;
+    border: solid;
+    border-width: 5px;
+    border-color: #800020;
+}
+
+p.p6 {
+    font-family: 'Monsterrat', sans-serif;
+    text-align: left;
+    font-size: 24px;
+    color: #800020;
+    border: solid;
+    border-width: 5px;
+    border-color: #800020;
+}
+
+p.p7 {
+    font-family: 'Monsterrat', sans-serif;
+    text-align: left;
+    font-size: 24px;
+    color: #800020;
+    border: solid;
+    border-width: 5px;
+    border-color: #800020;
+}
+
+img.img1 {
+    display: block;
+    margin-left: 400;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+    border-radius: 8px;
+    position: fixed;
+    right: 950px;
+    bottom: 200px;
+    float: left;
+}
+
+img.img2 {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+    border-radius: 8px;
+    
+
+}
+
+
+.footer {
+    font-family: 'Monsterrat', sans-serif;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #66666b;
+    border-width: 5px;
+    border-color: #800020; opacity:0.6;
+    color: #800020;
+    text-align: center;
+    border-top: solid;
+    border-top-color: #800020;
+    border-width: 4px;
+}
+
+
+.btn{
+    background-color: #800020;
+    color: white;
+    padding: 12px 12px;
+    font-size: 24px;
+    border: 2px solid #800020;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    transition: all 1s ease;
+    object-position: center;
+
+}
+
+
+
+.btn:hover{
+  background-color: whitesmoke;
+  border-color: #800020;
+  color: #800020;
+
+}
+
+.ipt{
+	padding: 0px 8px 0px 8px;
+	border: 0;
+    font-size: 20px;
+	border-bottom: 5px solid #800020;
+    font-family: 'Monsterrat', sans-serif;
+    background-color: white; opacity:0.2;
+}
+
+.ipt2{
+	padding: 100px 200px 100px 200px;
+	border: 0;
+	font-size: 18px;
+	border-bottom: 5px solid #800020;
+    font-family: 'Monsterrat', sans-serif;
+    background-color: whitesmoke; opacity:0.2;
+}
